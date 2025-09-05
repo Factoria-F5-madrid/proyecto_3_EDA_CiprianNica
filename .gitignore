@@ -18,8 +18,8 @@ venv/
 # macOS
 .DS_Store
 
-# Datos pesados (opcional)
-#data/raw/*
-#!data/raw/.gitkeep  # Mantener carpeta aunque esté vacía
-#data/processed/*
-#!data/processed/.gitkeep
+Datos pesados (opcional)
+data/raw/*
+!data/raw/.gitkeep  # Mantener carpeta aunque esté vacía
+data/processed/*
+!data/processed/.gitkeep
